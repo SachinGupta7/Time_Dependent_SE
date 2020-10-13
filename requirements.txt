@@ -1,4 +1,4 @@
-numpy
-ipywidgets
-IPython
-bqplot
+numpy==1.19.1
+bqplot==0.12.16
+IPython==7.18.1
+ipywidgets==7.5.1
